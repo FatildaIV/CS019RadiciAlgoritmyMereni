@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Xudeb\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Xudeb\\.nuget\\packages"
+    ]
+  }
+}
